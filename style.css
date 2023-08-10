@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+nav{
+    /*display:flex;*/
+    background-color: lightgray;
+    /*border-color: black;
+    border: 5px;*/
+}
+.cur{
+    background-color: bisque;
+}
+h4{
+    text-decoration: none;
+}
