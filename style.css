@@ -1,15 +1,67 @@
 body{
-    background-color: pink;
+    background-color:pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.quote{
+    font-family: cursive;
+    background-color: aqua;
+    text-align: right;
 }
 nav{
     /*display:flex;*/
     background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
     /*border-color: black;
     border: 5px;*/
 }
 .cur{
-    background-color: bisque;
+    background-color:bisque;
+}
+h1{
+    background-color: greenyellow;
 }
 h4{
-    text-decoration: none;
+    text-decoration:none;
+}
+.cleo{
+    height:300px;
+    align-content: center;
+}
+img{
+    height: 100px;
+}
+
+.proj1{
+    display:flex;
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.proj2{
+    display:flex;
+    background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.proj1{
+    display:flex;
+    background-color:beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.phed{
+    background-color: cadetblue;
+}
+.hby{
+    display:flex;
+    font-family: 'Courier New', Courier, monospace;
+}
+.divide{
+    background-color: lightblue;
+}
+
+/*Things that didn't quite work and their intention
+
+This was trying to put the LinkedIn and Github buttons on
+the right side of the nav bar but seemed to only align it 
+within their own little boxes
+.right{
+    text-align: right;
 }
